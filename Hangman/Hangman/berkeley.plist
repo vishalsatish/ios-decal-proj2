@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <string>ALUMNI HOUSE</string>
+    <string>ANDERSEN AUDITORIUM</string>
+    <string>ANTHONY HALL</string>
+    <string>ARCHITECTS AND ENGINEERS</string>
+    <string>BANCROFT LIBRARY</string>
+    <string>BANWAY BUILDING</string>
+    <string>BARKER HALL</string>
+    <string>BARROW LANE</string>
+    <string>BARROWS HALL</string>
+    <string>BART STATION</string>
+    <string>BECHTEL ENGINEERING CENTER</string>
+    <string>BERKELEY ART MUSEUM</string>
+    <string>BIRGE HALL</string>
+    <string>BLUM HALL</string>
+    <string>BOALT HALL</string>
+    <string>BOTANICAL GARDEN</string>
+    <string>BRAIN IMAGING CENTER</string>
+    <string>EAST ASIAN LIBRARY</string>
+    <string>CALIFORNIA HALL</string>
+    <string>CALIFORNIA MEMORIAL STADIUM</string>
+    <string>CALVIN LABORATORY</string>
+    <string>CAMPANILE</string>
+    <string>CAMPBELL HALL</string>
+    <string>CAREER CENTER</string>
+    <string>CHAN SHUN AUDITORIUM</string>
+    <string>CHAVEZ STUDENT CENTER</string>
+    <string>CHEIT HALL</string>
+    <string>CLARK KERR CAMPUS</string>
+    <string>CNMAT</string>
+    <string>CORY HALL</string>
+    <string>CYCLOTRON ROAD</string>
+    <string>DAVIS HALL</string>
+    <string>DOE MEMORIAL LIBRARY</string>
+    <string>DONNER LAB</string>
+    <string>DURANT HALL</string>
+    <string>DURHAM STUDIO THEATRE</string>
+    <string>DWINELLE ANNEX</string>
+    <string>DWINELLE HALL</string>
+    <string>EAST GATE</string>
+    <string>EDWARDS STADIUM</string>
+    <string>ENERGY BIOSCIENCES BUILDING</string>
+    <string>ESHLEMAN HALL</string>
+    <string>ETCHEVERRY HALL</string>
+    <string>EVANS DIAMOND</string>
+    <string>EVANS HALL</string>
+    <string>EYE CENTER</string>
+    <string>FACULTY CLUB</string>
+    <string>FACULTY GLADE</string>
+    <string>FOUNDERS ROCK</string>
+    <string>FOX COTTAGE</string>
+    <string>FRANK SCHLESSINGER WAY</string>
+    <string>GAYLEY ROAD</string>
+    <string>GENETICS AND PLANT BIOLOGY BUILDING</string>
+    <string>GIANNINI HALL</string>
+    <string>GIAUQUE HALL</string>
+    <string>GILMAN HALL</string>
+    <string>GIRTON HALL</string>
+    <string>GOLDEN BEAR RECREATION CENTER</string>
+    <string>GOLDMAN FIELD</string>
+    <string>GOLDMAN PLAZA</string>
+    <string>GOLDMAN SCHOOL OF PUBLIC POLICY</string>
+    <string>GREENHOUSE</string>
+    <string>GRINNELL NATURAL AREA</string>
+    <string>HAAS PAVILION</string>
+    <string>HAAS SCHOOL OF BUSINESS</string>
+    <string>HARGROVE MUSIC LIBRARY</string>
+    <string>HASTE STREET CHILD DEVELOPMENT CENTER</string>
+    <string>HAVILAND HALL</string>
+    <string>HAZARDOUS MATERIALS FACILITY</string>
+    <string>HEARST FIELD ANNEX</string>
+    <string>HEARST GREEK THEATRE</string>
+    <string>HEARST MEMORIAL GYMNASIUM</string>
+    <string>HEARST MEMORIAL MINING BUILDING</string>
+    <string>HEARST MINING CIRCLE</string>
+    <string>HEARST MUSEUM OF ANTHROPOLOGY</string>
+    <string>HEATING PLANT</string>
+    <string>HELLMAN TENNIS COMPLEX</string>
+    <string>HERTZ HALL</string>
+    <string>HESSE HALL</string>
+    <string>HEWLETT PACKARD AUDITORIUM</string>
+    <string>HILDEBRAND HALL</string>
+    <string>HILGARD HALL</string>
+    <string>INSECTARY</string>
+    <string>INTERNATIONAL HOUSE</string>
+    <string>ISHI COURT</string>
+    <string>JONES CHILD STUDY CENTER</string>
+    <string>KLEEBERGER FIELD HOUSE</string>
+    <string>KOSHLAND HALL</string>
+    <string>KROEBER HALL</string>
+    <string>KRUTCH THEATER</string>
+    <string>LATIMER HALL</string>
+    <string>LAWRENCE BERKELEY NATIONAL LABORATORY</string>
+    <string>LAWRENCE HALL OF SCIENCE</string>
+    <string>LECONTE HALL</string>
+    <string>LEVINE FRICKE FIELD</string>
+    <string>LEWIS HALL</string>
+    <string>LIFE SCIENCES ADDITION</string>
+    <string>LOWER SPROUL PLAZA</string>
+    <string>MARTIN LUTHER KING JUNIOR STUDENT UNION</string>
+    <string>MATHEMATICAL SCIENCES RESEARCH INSTITUTE</string>
+    <string>MAXWELL FAMILY FIELD</string>
+    <string>MCCONE HALL</string>
+    <string>MCENERNEY HALL</string>
+    <string>MCLAUGHLIN HALL</string>
+    <string>MEMORIAL GLADE AND POOL</string>
+    <string>MINOR HALL</string>
+    <string>MINOR HALL ADDITION</string>
+    <string>MOFFITT UNDERGRADUATE LIBRARY</string>
+    <string>MORGAN HALL</string>
+    <string>MORRISON HALL</string>
+    <string>MOSES HALL</string>
+    <string>MULFORD HALL</string>
+    <string>NATURAL RESOURCES LABORATORY</string>
+    <string>NORTH FIELD</string>
+    <string>NORTH GATE</string>
+    <string>NORTH GATE HALL</string>
+    <string>NORTHWEST ANIMAL FACILITY</string>
+    <string>O BRIEN HALL</string>
+    <string>OBSERVATORY HILL</string>
+    <string>OLD ART GALLERY</string>
+    <string>OPTOMETRY CLINIC</string>
+    <string>OXFORD RESEARCH UNIT</string>
+    <string>PACIFIC FILM ARCHIVE</string>
+    <string>PIMENTEL HALL</string>
+    <string>PITZER AUDITORIUM</string>
+    <string>RECREATIONAL SPORTS FACILITY</string>
+    <string>RESIDENCE HALLS</string>
+    <string>BOWLES HALL</string>
+    <string>CLARK KERR CAMPUS</string>
+    <string>CLEARY HALL</string>
+    <string>FOOTHILL RESIDENCE HALLS</string>
+    <string>IDA LOUISE JACKSON GRADUATE HOUSE</string>
+    <string>MARTINEZ COMMONS</string>
+    <string>STERN HALL</string>
+    <string>UNIT ONE</string>
+    <string>UNIT TWO</string>
+    <string>UNIT THREE</string>
+    <string>RESIDENTIAL AND STUDENT SERVICES BUILDING</string>
+    <string>SATHER GATE</string>
+    <string>SATHER ROAD</string>
+    <string>SATHER TOWER</string>
+    <string>SENIOR HALL</string>
+    <string>SIBLEY AUDITORIUM</string>
+    <string>SILVER SPACE SCIENCES LABORATORY</string>
+    <string>SIMON HALL</string>
+    <string>SIMPSON CENTER</string>
+    <string>SODA HALL</string>
+    <string>SOUTH HALL</string>
+    <string>SPIEKER AQUATICS COMPLEX</string>
+    <string>SPIEKER PLAZA</string>
+    <string>SPRINGER GATEWAY</string>
+    <string>SPROUL HALL</string>
+    <string>SPROUL PLAZA</string>
+    <string>STADIUM RIM WAY</string>
+    <string>STANLEY HALL</string>
+    <string>STEPHENS HALL</string>
+    <string>STRAWBERRY CANYON RECREATION AREA</string>
+    <string>SUTARDJA DAI HALL</string>
+    <string>TAN HALL</string>
+    <string>TANG CENTER</string>
+    <string>TOLMAN HALL</string>
+    <string>UC BERKELEY EXTENSION</string>
+    <string>UNDERHILL PLAYING FIELD</string>
+    <string>UNIVERSITY DRIVE</string>
+    <string>UNIVERSITY HALL</string>
+    <string>UNIVERSITY HEALTH SERVICES</string>
+    <string>UNIVERSITY HOUSE</string>
+    <string>UNIVERSITY OF CALIFORNIA PRESS</string>
+    <string>VALLEY LIFE SCIENCES BUILDING</string>
+    <string>VISITOR CENTER</string>
+    <string>WARREN HALL</string>
+    <string>WELLMAN HALL</string>
+    <string>WEST CIRCLE</string>
+    <string>WEST GATE</string>
+    <string>WHEELER HALL</string>
+    <string>WICKSON NATURAL AREA</string>
+    <string>WITTER FIELD</string>
+    <string>WOMENS FACULTY CLUB</string>
+    <string>WURSTER HALL</string>
+    <string>ZELLERBACH HALL</string>
+    <string>ZELLERBACH PLAYHOUSE</string>
+</array>
+</plist>

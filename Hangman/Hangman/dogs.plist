@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <string>AFFENPINSCHER</string>
+    <string>AFGHAN HOUND</string>
+    <string>AIREDALE TERRIER</string>
+    <string>AKITA</string>
+    <string>ALASKAN MALAMUTE</string>
+    <string>AMERICAN ENGLISH COONHOUND</string>
+    <string>AMERICAN ESKIMO DOG</string>
+    <string>AMERICAN FOXHOUND</string>
+    <string>AMERICAN HAIRLESS TERRIER</string>
+    <string>AMERICAN STAFFORDSHIRE TERRIER</string>
+    <string>AMERICAN WATER SPANIEL</string>
+    <string>ANATOLIAN SHEPHERD DOG</string>
+    <string>AUSTRALIAN CATTLE DOG</string>
+    <string>AUSTRALIAN SHEPHERD</string>
+    <string>AUSTRALIAN TERRIER</string>
+    <string>BASENJI</string>
+    <string>BASSET HOUND</string>
+    <string>BEAGLE</string>
+    <string>BEARDED COLLIE</string>
+    <string>BEAUCERON</string>
+    <string>BEDLINGTON TERRIER</string>
+    <string>BELGIAN MALINOIS</string>
+    <string>BELGIAN SHEEPDOG</string>
+    <string>BELGIAN TERVUREN</string>
+    <string>BERGAMASCO</string>
+    <string>BERGER PICARD</string>
+    <string>BERNESE MOUNTAIN DOG</string>
+    <string>BICHON FRISE</string>
+    <string>BLACK AND TAN COONHOUND</string>
+    <string>BLACK RUSSIAN TERRIER</string>
+    <string>BLOODHOUND</string>
+    <string>BLUETICK COONHOUND</string>
+    <string>BOERBOEL</string>
+    <string>BORDER COLLIE</string>
+    <string>BORDER TERRIER</string>
+    <string>BORZOI</string>
+    <string>BOSTON TERRIER</string>
+    <string>BOUVIER DES FLANDRES</string>
+    <string>BOXER</string>
+    <string>BOYKIN SPANIEL</string>
+    <string>BRIARD</string>
+    <string>BRITTANY</string>
+    <string>BRUSSELS GRIFFON</string>
+    <string>BULL TERRIER</string>
+    <string>BULLDOG</string>
+    <string>BULLMASTIFF</string>
+    <string>CAIRN TERRIER</string>
+    <string>CANAAN DOG</string>
+    <string>CANE CORSO</string>
+    <string>CARDIGAN WELSH CORGI</string>
+    <string>CAVALIER KING CHARLES SPANIEL</string>
+    <string>CESKY TERRIER</string>
+    <string>CHESAPEAKE BAY RETRIEVER</string>
+    <string>CHIHUAHUA</string>
+    <string>CHINESE CRESTED DOG</string>
+    <string>CHINESE SHAR PEI</string>
+    <string>CHINOOK</string>
+    <string>CHOW CHOW</string>
+    <string>CIRNECO DELL ETNA</string>
+    <string>CLUMBER SPANIEL</string>
+    <string>COCKER SPANIEL</string>
+    <string>COLLIE</string>
+    <string>COTON DE TULEAR</string>
+    <string>CURLY COATED RETRIEVER</string>
+    <string>DACHSHUND</string>
+    <string>DALMATIAN</string>
+    <string>DANDIE DINMONT TERRIER</string>
+    <string>DOBERMAN PINSCHER</string>
+    <string>DOGUE DE BORDEAUX</string>
+    <string>ENGLISH COCKER SPANIEL</string>
+    <string>ENGLISH FOXHOUND</string>
+    <string>ENGLISH SETTER</string>
+    <string>ENGLISH SPRINGER SPANIEL</string>
+    <string>ENGLISH TOY SPANIEL</string>
+    <string>ENTLEBUCHER MOUNTAIN DOG</string>
+    <string>FIELD SPANIEL</string>
+    <string>FINNISH LAPPHUND</string>
+    <string>FINNISH SPITZ</string>
+    <string>FLAT COATED RETRIEVER</string>
+    <string>FRENCH BULLDOG</string>
+    <string>GERMAN PINSCHER</string>
+    <string>GERMAN SHEPHERD DOG</string>
+    <string>GERMAN SHORTHAIRED POINTER</string>
+    <string>GERMAN WIREHAIRED POINTER</string>
+    <string>GIANT SCHNAUZER</string>
+    <string>GLEN OF IMAAL TERRIER</string>
+    <string>GOLDEN RETRIEVER</string>
+    <string>GORDON SETTER</string>
+    <string>GREAT DANE</string>
+    <string>GREAT PYRENEES</string>
+    <string>GREATER SWISS MOUNTAIN DOG</string>
+    <string>GREYHOUND</string>
+    <string>HARRIER</string>
+    <string>HAVANESE</string>
+    <string>IBIZAN HOUND</string>
+    <string>ICELANDIC SHEEPDOG</string>
+    <string>IRISH RED AND WHITE SETTER</string>
+    <string>IRISH SETTER</string>
+    <string>IRISH TERRIER</string>
+    <string>IRISH WATER SPANIEL</string>
+    <string>IRISH WOLFHOUND</string>
+    <string>ITALIAN GREYHOUND</string>
+    <string>JAPANESE CHIN</string>
+    <string>KEESHOND</string>
+    <string>KERRY BLUE TERRIER</string>
+    <string>KOMONDOR</string>
+    <string>KUVASZ</string>
+    <string>LABRADOR RETRIEVER</string>
+    <string>LAGOTTO ROMAGNOLO</string>
+    <string>LAKELAND TERRIER</string>
+    <string>LEONBERGER</string>
+    <string>LHASA APSO</string>
+    <string>LOWCHEN</string>
+    <string>MALTESE</string>
+    <string>MANCHESTER TERRIER</string>
+    <string>MASTIFF</string>
+    <string>MINIATURE AMERICAN SHEPHERD</string>
+    <string>MINIATURE BULL TERRIER</string>
+    <string>MINIATURE PINSCHER</string>
+    <string>MINIATURE SCHNAUZER</string>
+    <string>NEAPOLITAN MASTIFF</string>
+    <string>NEWFOUNDLAND</string>
+    <string>NORFOLK TERRIER</string>
+    <string>NORWEGIAN BUHUND</string>
+    <string>NORWEGIAN ELKHOUND</string>
+    <string>NORWEGIAN LUNDEHUND</string>
+    <string>NORWICH TERRIER</string>
+    <string>NOVA SCOTIA DUCK TOLLING RETRIEVER</string>
+    <string>OLD ENGLISH SHEEPDOG</string>
+    <string>OTTERHOUND</string>
+    <string>PAPILLON</string>
+    <string>PARSON RUSSELL TERRIER</string>
+    <string>PEKINGESE</string>
+    <string>PEMBROKE WELSH CORGI</string>
+    <string>PETIT BASSET GRIFFON VENDÉEN</string>
+    <string>PHARAOH HOUND</string>
+    <string>PLOTT</string>
+    <string>POINTER</string>
+    <string>POLISH LOWLAND SHEEPDOG</string>
+    <string>POMERANIAN</string>
+    <string>POODLE</string>
+    <string>PORTUGUESE PODENGO PEQUENO</string>
+    <string>PORTUGUESE WATER DOG</string>
+    <string>PUG</string>
+    <string>PULI</string>
+    <string>PYRENEAN SHEPHERD</string>
+    <string>RAT TERRIER</string>
+    <string>REDBONE COONHOUND</string>
+    <string>RHODESIAN RIDGEBACK</string>
+    <string>ROTTWEILER</string>
+    <string>RUSSELL TERRIER</string>
+    <string>SAINT BERNARD</string>
+    <string>SALUKI</string>
+    <string>SAMOYED</string>
+    <string>SCHIPPERKE</string>
+    <string>SCOTTISH DEERHOUND</string>
+    <string>SCOTTISH TERRIER</string>
+    <string>SEALYHAM TERRIER</string>
+    <string>SHETLAND SHEEPDOG</string>
+    <string>SHIBA INU</string>
+    <string>SHIH TZU</string>
+    <string>SIBERIAN HUSKY</string>
+    <string>SILKY TERRIER</string>
+    <string>SKYE TERRIER</string>
+    <string>SLOUGHI</string>
+    <string>SMOOTH FOX TERRIER</string>
+    <string>SOFT COATED WHEATEN TERRIER</string>
+    <string>SPANISH WATER DOG</string>
+    <string>SPINONE ITALIANO</string>
+    <string>STAFFORDSHIRE BULL TERRIER</string>
+    <string>STANDARD SCHNAUZER</string>
+    <string>SUSSEX SPANIEL</string>
+    <string>SWEDISH VALLHUND</string>
+    <string>TIBETAN MASTIFF</string>
+    <string>TIBETAN SPANIEL</string>
+    <string>TIBETAN TERRIER</string>
+    <string>TOY FOX TERRIER</string>
+    <string>TREEING WALKER COONHOUND</string>
+    <string>VIZSLA</string>
+    <string>WEIMARANER</string>
+    <string>WELSH SPRINGER SPANIEL</string>
+    <string>WELSH TERRIER</string>
+    <string>WEST HIGHLAND WHITE TERRIER</string>
+    <string>WHIPPET</string>
+    <string>WIRE FOX TERRIER</string>
+    <string>WIREHAIRED POINTING GRIFFON</string>
+    <string>WIREHAIRED VIZSLA</string>
+    <string>XOLOITZCUINTLI</string>
+    <string>YORKSHIRE TERRIER</string>
+</array>
+</plist>

@@ -12,8 +12,8 @@ class HangmanPhrases {
     var phrases : NSArray!
     
     // Initialize HangmanPhrase with an array of all possible phrases of the Hangman game
-    init() {
-        let path = NSBundle.mainBundle().pathForResource("phrases", ofType: "plist")
+    init(category: String) {
+        let path = NSBundle.mainBundle().pathForResource(category, ofType: "plist")
         phrases = NSArray.init(contentsOfFile: path!)
     }
     
